@@ -1,0 +1,55 @@
+body{
+    font-family: clear sans,helvetica neue,Arial,sans-serif;
+    background: antiquewhite;
+    }
+    
+    .tout{
+    display: block;    
+    }
+    
+    .menu{
+    display: inline-block;
+    background: white;
+    }
+    
+    .gras{
+    font-weight: bold;
+    font-size: large;
+    }
+    
+    .afficher{
+    background-color: #3f3fa1;
+    color: black;
+    }
+    
+    .contenu{
+    display: inline-block;
+    text-align: center;
+    }
+    
+    .poster{
+    background-color: #3f3fa1;
+    color: black;
+    }
+    
+    .affiche_post{
+    background: white;
+    }
+    
+    .nom{
+    color :#478ec9;
+    }
+    
+    .presentation{
+    text-align: left;
+    }
+    
+    .aimer{
+    background-color: #3f3fa1;
+    color: black;
+    }
+    
+    .commenter{
+    background-color: #3f3fa1;
+    color: black;
+    }
