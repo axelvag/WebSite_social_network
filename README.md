@@ -2,6 +2,8 @@
 
 > A social network in php
 
+![image](image.png)
+
 ## Objetive
 
 I had to design a social network. All users must be able to post a text or an image or a comment associated with an image or text already posted. It must also be possible to "Like" a text, an image or a comment already posted.
