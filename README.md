@@ -2,6 +2,8 @@
 
 > A social network in php
 
+!!! This project isn't finish !!!
+
 ![image](image.png)
 
 ## Objetive
@@ -23,4 +25,3 @@ $ git clone https://github.com/axelvag/WebSite_social_network.git WebSite_social
 # Access
 $ cd WebSite_social_network
 ```
-!!! This project isn't finish !!!
